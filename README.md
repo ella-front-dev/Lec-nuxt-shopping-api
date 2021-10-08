@@ -1,2 +1,2 @@
 # Lec-nuxt-shopping-api
-[캡틴판교] Nuxt shopping API 
+Nuxt shopping API 저장소 입니다.
